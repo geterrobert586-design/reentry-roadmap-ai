@@ -7,8 +7,8 @@ export default function LandingPage() {
       <div className="space-y-4">
         <Card title="About Reentry Roadmap AI">
           <p>
-            Reentry Roadmap AI is a secure reentry coordination and life-stability command center for returning citizens,
-            organizations, churches, workforce programs, and support groups.
+            Reentry Roadmap AI is a secure reentry coordination and life-stability command center built for real life.
+
           </p>
           <p className="mt-2 text-sm text-slate-700">
             Created by Robert Leon Geter II after serving 17 years day-for-day and coming home to build practical tools
